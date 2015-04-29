@@ -1,0 +1,11 @@
+site_name: saucey
+pages:
+- [index.md, Home]
+- [Get-Started.md, Get Started]
+- [The-Cellar.md, Available Step Definitions]
+- [The-Winery.md, How it's Set Up]
+- [Reporting-&-MOAR.md, Reporting & More]
+- [Caveats-&-Issues.md, Caveats & Issues]
+- [Release-Notes.md, Release Notes]
+theme: readthedocs
+repo_url: https://github.com/getsaucey/docs.saucey.io
