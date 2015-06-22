@@ -1,0 +1,6 @@
+tr:nth-child(even) {background: rgba(236,240,241,0.7)}
+tr:nth-child(odd) {background: #FFF}
+td:nth-child(even){background: #fff;}
+tr td:nth-child(even){background: rgba(236,240,241,0.4);}
+
+td th {padding: 10px 10px 10px 10px;}​
