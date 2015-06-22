@@ -1,12 +1,42 @@
-#get.saucey.io
-Allow me to introduce, well umm... myself.
+#docs.saucey.io
+READ THE DOCS
 
-My name is saucey. I am a framework. **I am:**  
+##Clone
+Open Terminal, and run:
 
-* Open Source
-* Product, framework, code, language agnostic
-* Designed with methods proven over time
-* Only limited by the imagination
+	cd ~/Desktop && git clone git@github.com:sajjadhossain/AdcadeQADox.git
+
+## `AUTHOR` get Mou 
+1. Download [Mou](http://25.io/mou/). 
+2. Navigate to `AdcadeQADox` folder in your Desktop. 
+3. Then, open the `docs` folder. 
+4. Right click on any .md file, i.e. `Click_Through_Verification.md` from `testing` folder & open with Mou.
+5. Additionally, you can open Terminal and set Mou as an alias:
+
+		alias mou="open /Applications/Mou.app"
+
+	Please see: [Mou syntax](http://25.io/mou/), it comes with the install as well `COMMAND + R` when your in the app.
+
+## `ADMINISTRATOR` get MkDocs 
+Admins can also author via below.
+
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs build --clean` - Rebuilds the documentation site, cleans dependancies
+* `mkdocs help` - Print this help message.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+---
 
 #sauc·ey[*](http://www.urbandictionary.com/define.php?term=saucey)
 [ /ˈsɑː-/ ] *intoxicated, drunk, or under the influence*

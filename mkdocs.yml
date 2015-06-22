@@ -1,11 +1,15 @@
 site_name: saucey
 pages:
 - [index.md, Home]
-- [Get-Started.md, Get Started]
-- [The-Cellar.md, Available Step Definitions]
-- [The-Winery.md, How it's Set Up]
-- [Reporting-&-MOAR.md, Reporting & More]
-- [Caveats-&-Issues.md, Caveats & Issues]
-- [Release-Notes.md, Release Notes]
+- ['./Get_Started.md', 'saucey']
+- ['./Available_Step_Definitions.md', 'saucey']
+- ['./Reporting_and_More.md', 'saucey']
+- ['./Caveats_and_Issues.md', 'saucey']
+- ['./Release_Notes.md', 'saucey']
+- ['testing/QA_Explained.md', 'general']
+- ['testing/Testing_Tutorial_And_Guidelines.md', 'general']
+- ['testing/Click_Through_Verification.md', 'general']
+- ['testing/Regression_Test_Plan.md', 'test plans']
+- ['testing/Prism_Ad_Test_Plan.md', 'test plans']
 theme: readthedocs
 repo_url: https://github.com/getsaucey/docs.saucey.io
